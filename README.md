@@ -31,6 +31,8 @@ Opinn spurning geturðu svarað með fullu svari t.d "hvernig veistu...", lokuð
 
 ### 8. Hvað eru jaðartæki?
 
-Jaðartæki er notað til að setja upplýsingar í og fá upplysingar frá tölvunni t.d mús, lyklaborð.
+Jaðartæki er notað til að setja upplýsingar í og fá upplysingar frá tölvunni t.d mús, lyklaborð, CD-ROM drif, CD-R drif.
 
 ### 9. Nefndu þrjú dæmi um inntakstæki.
+
+Mús, lyklaborð, myndavél.
