@@ -41,3 +41,12 @@ Mús, lyklaborð, myndavél.
 
 | Íhlutur        | Kostnaður           | Fæst  |
 | -------------  |:-------------:      | -----:|
+| Intel Core i7-7700 | 39.995kr        |Tölvulistinn |
+| Noctua NH-D15  | 16.990kr            |Tölvutek |
+| Gigabyte B250m móðurborð  | 12.990kr |Tölvutek |
+| Corsair Vengeance 2x8GB 2400MHz      | 29.995kr|Tölvulistinn |
+| WD Blue 1TB 3.5" 7200RPM       | 8.995kr            | Tölvulistinn |
+| MSI GeForce GTX 1070 8GB | 74.995kr           | Tölvulistinn |
+| Cooler Master MasterBox 5       | 17.996kr       | Tölvulistinn |
+| Corsair RM650x       | 17.996kr            | Tölvulistinn |
+| Samtals| 219.952kr ||
