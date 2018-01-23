@@ -15,3 +15,20 @@ ESD stendur fyrir Electrostatic discharge og það er rafstraumur sem kemur frá
 ### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 
 Hversu mikið rafafl það hefur, vörumerki, kostnaður ofl.
+
+### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+
+1. Identify the problem.
+2. Establish a theory of probable cause.
+3. Test the theory to determine cause.
+4. Establish a plan of action to resolve the problem and implement the solution.
+5. Verify full system functionality and if applicable implement preventative measures.
+6. Document findings, actions, and outcomes.
+
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+
+Opinn spurning geturðu svarað með fullu svari t.d "hvernig veistu...", lokuð spurning er oftast já/nei spurning t.d "vissirðu að...".
+
+### 8. Hvað eru jaðartæki?
+
+
